@@ -6,4 +6,5 @@ __pycache__/
 !.env.example
 .venv/
 venv/
-tash/
+assignment/
+BCSL-146/
