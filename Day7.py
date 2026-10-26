@@ -1,0 +1,6 @@
+servers = [
+    {"name": "app-01", "cpu": 55, "memory": 62},
+    {"name": "app-02", "cpu": 81, "memory": 74},
+    {"name": "db-01", "cpu": 93, "memory": 88},
+    {"name": "cache-01", "cpu": 40, "memory": 95}
+]
