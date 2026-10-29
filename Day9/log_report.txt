@@ -1,0 +1,3 @@
+Server Log Analysis Report
+Total errors: 2
+Total warnings: 2
